@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float classes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,11 +69,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 /* benefits */
 .benefits {
     margin-right: 20px;
@@ -101,7 +96,14 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
- /* content-main */
+
+/* content section */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .content-main {
     margin-bottom: 20px;
     padding: 50px;
